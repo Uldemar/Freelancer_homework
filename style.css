@@ -61,3 +61,9 @@ line-height: 40px;
 font-weight: 400;
 color: #273d46;
 }
+
+.button{
+    width: 199px;
+height: 44px;
+box-shadow: 0px 6px 40px 0px rgba(128,183,179,0.54);
+}
