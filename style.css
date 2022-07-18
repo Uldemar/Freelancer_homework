@@ -44,4 +44,11 @@ letter-spacing: 0.2em;
 color: #273d46;
 }
 
+.subheader {
 
+font-family: 'Times New Roman';
+font-size: 36px;
+line-height: 50px;
+font-weight: 400;
+color: #273d46;
+}
