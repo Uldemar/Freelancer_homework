@@ -32,3 +32,16 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
+
+.header {
+    opacity: 0.6;
+font-family: Arial;
+font-size: 14px;
+line-height: 40px;
+font-weight: 400;
+text-transform: uppercase;
+letter-spacing: 0.2em;
+color: #273d46;
+}
+
+
