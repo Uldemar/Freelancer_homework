@@ -71,6 +71,6 @@ box-shadow: 0px 6px 40px 0px rgba(128,183,179,0.54);
 .photocenter
 {
 background: url('../images/layers.png') 50%/100px no-repeat
-width: 821px;
-height: 541px;
+/*width: 821px;
+height: 541px; */
 }
