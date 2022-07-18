@@ -73,3 +73,9 @@ background: url("images/layers.png");
 width: 821px;
 height: 541px;
 }
+.global
+{
+width: 1440px;
+height: 1700px;
+background-color: #e8e8e8;
+}
