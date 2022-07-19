@@ -37,7 +37,7 @@ body{
 	background-color:#80b7b3;
 }
 
-/*.main {
+.main {
 	background-color:#e8e8e8;
 	width: 1440px;
 	height: 1700px;
@@ -46,7 +46,6 @@ body{
 	margin-left: 10%;
 }
 
-*/
 .ellipse {
 	background: url('images/ellipse_1_copy_4.png') no-repeat 50% 50%;
 	
