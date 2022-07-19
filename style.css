@@ -70,5 +70,5 @@ background-color:  rgba(128,183,179,0.54);
 
 .global
 {
-background: url('/images/ellipse_1_copy_4.png') center no-repeat;
+background-image: url('/images/ellipse_1_copy_4.png')
 }
