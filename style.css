@@ -33,10 +33,11 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
 
+body{
+	background-color: #e8e8e8
+}
+
+
 .main{
-    background-color: #e8e8e8;
-	margin-top: 30px;
-	margin-left: 50px;
-    width: 1440px;
-    height: 1700px;	
+ 
 }
