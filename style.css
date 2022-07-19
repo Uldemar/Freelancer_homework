@@ -63,14 +63,14 @@ color: #273d46;
 }
 
 .button{
-    width: 199px;
+width: 199px;
 height: 44px;
 background-color:  rgba(128,183,179,0.54);
 }
 
 .man {
-background-color: rgba(15,16,16,0.15), width: 841px, height: 561px;
-background-image: url("images/layers.png") center, no-repeat, width: 821px, height: 541px;
+background-color: rgba(15,16,16,0.15);                      /*width: 841px, height: 561px;*/
+background-image: url("images/layers.png") center, no-repeat;                 /*width: 821px, height: 541px;*/
 }
 
 .global
