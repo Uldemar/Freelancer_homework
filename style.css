@@ -47,6 +47,6 @@ body{
 	margin-left: 10%;
 }
 .ellipse{
-	background-image: url(/images/ellipse_1_copy_4.png);
+	background-image: url('/images/ellipse_1_copy_4.png');
 	background-repeat: no-repeat;
 }
