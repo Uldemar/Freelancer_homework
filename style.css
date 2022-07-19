@@ -49,4 +49,5 @@ body{
 .ellipse{
 	background-image: url('/images/ellipse_1_copy_4.png');
 	background-repeat: no-repeat;
+	background-position: 50% 50%;
 }
