@@ -76,8 +76,7 @@ background-image: url("images/layers.png") center, no-repeat;                 wi
 
 .global
 {
-background-size: 1700px 1440px ;
+background-size: 1440px 1700px;
 background-color: #e8e8e8;
 background-image: url('images/ellipse_1_copy_4.png') center, no-repeat ;
-background-repeat: no-repeat;
 }
