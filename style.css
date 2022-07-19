@@ -69,10 +69,11 @@ box-shadow: 0px 6px 40px 0px rgba(128,183,179,0.54);
 }
 
 .man {
-background: url("images/layers.png") center, no-repeat;
-width: 821px;
-height: 541px;
+background-image: url("images/layers.png") center, no-repeat, width: 821px, height: 541px;
+background-color: rgba(15,16,16,0.15), box-shadow: 0px 15px 65px 0px, width: 841px, height: 561px;
+
 }
+
 .global
 {
 width: 1440px;
@@ -80,5 +81,4 @@ height: 1700px;
 background-color: #e8e8e8;
 background-image: url('images/ellipse_1_copy_4.png') center, no-repeat ;
 background-repeat: no-repeat;
-
 }
