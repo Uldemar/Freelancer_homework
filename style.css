@@ -39,5 +39,5 @@ body {
 	}
 
 .ellipse {
-background: url("img/ellipse_1_copy_4.png");
+background: url('img/ellipse_1_copy_4.png') no-repeat;
 }
