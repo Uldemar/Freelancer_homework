@@ -33,7 +33,8 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 --------------------*/
 
-body{
-	background: #80b7b3; url
+body {
+
+	background: #80b7b3 url("/img/ellipse_1_copy_4.png") no-repeat center 1190 1064;
 
 }
