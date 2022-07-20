@@ -46,7 +46,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	margin-left: 10%;
 }
 
-.ellipse {
+body {
 	background-image: url("/img/layers.png");
 	background-color: aqua;
 	background-size: 1190px 1064px;
