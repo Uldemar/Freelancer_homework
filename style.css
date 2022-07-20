@@ -37,3 +37,7 @@ body {
 	background-position: center;
 	background-size: 1440px 1700px;
 	}
+
+.ellipse {
+background: url("/img/ellipse_1_copy_4.png");
+}
