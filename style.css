@@ -47,7 +47,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 }
 
 body {
-	background-image: url("/img/layers.png");
+	background-image: url("img/layers.png");
 	background-color: aqua;
 	background-size: 1190px 1064px;
 	background-repeat: no-repeat;
