@@ -51,4 +51,5 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	background-color: aqua;
 	background-size: 1190px 1064px;
 	background-repeat: no-repeat;
+	border: 1px solid;
 }
