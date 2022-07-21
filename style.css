@@ -32,3 +32,23 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 /*обнулили все стили*/
+
+
+.content {
+}
+.content-top {
+}
+.content-top-title {
+}
+.content-top-subtitle {
+}
+.content-middle {
+}
+.content-middle-picture {
+}
+.content-middle-text {
+}
+.content-footer {
+}
+.content-footer-shortlist {
+}
