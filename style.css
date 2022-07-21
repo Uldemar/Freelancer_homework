@@ -64,7 +64,7 @@ font-weight: 400;
 color: #273d46;
 }
 .content-middle {
-	padding: 10 10 10 10;
+	padding: 0 auto;
 }
 .content-middle-picture {
 	padding: 10;
