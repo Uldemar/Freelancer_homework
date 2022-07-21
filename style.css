@@ -34,10 +34,12 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*обнулили все стили*/
 
 
+body{
+	background-color: #e8e8e8;
+}
 .content {
 	max-width: 841px;
-	background-color: #e8e8e8;
-
+	
 }
 .content-top {
 }
@@ -73,5 +75,5 @@ color: #273d46;
 .content-footer {
 }
 .content-footer-shortlist {
-	
+
 }
