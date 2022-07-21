@@ -68,9 +68,11 @@ color: #273d46;
 }
 .content-middle-picture {
 	background-color: white;
-	margin: 10 auto;
-	
+	padding: 10px;
 }
+
+
+
 .content-middle-text {
 opacity: 0.8;
 font-family: 'Times New Roman';
