@@ -64,10 +64,11 @@ font-weight: 400;
 color: #273d46;
 }
 .content-middle {
-	padding: 0 auto;
+	
 }
 .content-middle-picture {
 	background-color: white;
+	margin: 10 auto;
 	
 }
 .content-middle-text {
