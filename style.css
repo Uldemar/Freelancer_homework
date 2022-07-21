@@ -49,13 +49,12 @@ body{
 .content-top-title {
 	opacity: 0.6;
 	font-family: Arial;
-	font-size: 14px;
 	line-height: 40px;
-	font-weight: 400;
+	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
 	color: #273d46;
-	margin: auto;
+	
 }
 .content-top-subtitle {
 font-family: 'Times New Roman';
