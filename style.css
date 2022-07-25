@@ -98,7 +98,7 @@ padding-left: 45px;
 	font-size: 50;
 }
 
-.content-footer-shotlist:nth-child(1)
+.content-footer-shotlist li:nth-child(1)
 {
 	font-size: 40px;
 	font-weight: 400;
