@@ -127,5 +127,5 @@ opacity: 0.3;
 }
 .hyperlink {
 	display: inline-block;
-	background: url("img/arrow.jpg") no-repeat rgba(128,183,179,0.54);
+	background: url("img/arrow.jpg") no-repeat 100% auto rgba(128,183,179,0.54);
 }
