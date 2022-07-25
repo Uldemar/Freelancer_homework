@@ -130,5 +130,6 @@ opacity: 0.3;
 }
 .content-footer span
 {
-
+display: inline-block;
+margin-right: 10px;
 }
