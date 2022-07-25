@@ -125,6 +125,6 @@ opacity: 0.3;
 .content-footer-shortlist li:last-child{
 	margin-bottom: 59px;
 }
-.content-footer a{
+.hyperlink {
 	background: url("img/arrow.jpg") right no-repeat 0 0/80% auto;
 }
