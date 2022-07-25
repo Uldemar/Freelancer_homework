@@ -73,6 +73,7 @@ color: #273d46;
 }
 .content-middle-picture img{
 	 max-width: 100%;     /*Здесь назначим максимальную ширину картинок, которые помещены или будут помещены в коробочку */
+	 margin-bottom: 107px;
 }
 
 
@@ -84,6 +85,9 @@ line-height: 40px;
 font-weight: 400;
 color: #273d46;
 }
+
+.
+
 .content-footer {
 }
 .content-footer-shortlist {
