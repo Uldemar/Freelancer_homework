@@ -115,6 +115,7 @@ color: #273d46;
 }
 .content-footer-shortlist li:nth-child(4)
 {
+opacity: 0.3
 text-decoration: line-through;
 color: #273d46;
 }
